@@ -1,0 +1,2 @@
+- add highlighting of unformatted syntax names
+- add numbers like 5e4 to number highlighting
