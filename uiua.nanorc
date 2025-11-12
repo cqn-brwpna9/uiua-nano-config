@@ -12,7 +12,7 @@ color orange "[0-9.η∞πτ]"
 color brightred "(&args|&asr|&b|&clip|&sc|&ts|arch|dllext|exeext|now|numprocs|os|osfamily|pathsep|tag|timezone|⚂)[₁₂₃₄₅₆₇₈₉⌟⌞]*"
 
 #monads
-color brightgreen "(&ap|&camcap|&cd|&cl|&ep|&epf|&exit|&fc|&fde|&fe|&fif|&fld|&fmd|&fo|&frab|&fras|&ftr|&ims|&invk|&memfree|&p|&pf|&raw|&runc|&runi|&runs|&s|&sl|&tcpa|&tcpaddr|&tcpc|&tcpl|&tcpsnb|&tlsc|&udpb|&udpr|&var|binary|csv|datetime|fft|graphemes|hsv|json|pretty|recv|repr|tryrecv|type|utf₈|voxels|wait|xlsx|¬|±|¯|⌵|√|ₑ|∿|⌊|⌈|⁅|⧻|△|⇡|⊢|⊣|⇌|♭|⍉|⍆|⍏|⍖|⊚|◴|⊛|⧆|⋕|⋕|⨪|¤|⋯)[₀₁₂₃₄₅₆₇₈₉⌟⌞]*"
+color brightgreen "(&ap|&camcap|&cd|&cl|&ep|&epf|&exit|&fc|&fde|&fe|&fif|&fld|&fmd|&fo|&frab|&fras|&ftr|&ims|&invk|&memfree|&p|&pf|&raw|&runc|&runi|&runs|&s|&sl|&tcpa|&tcpaddr|&tcpc|&tcpl|&tcpsnb|&tlsc|&udpb|&udpr|&var|binary|csv|datetime|fft|graphemes|hsv|json|pretty|recv|repr|tryrecv|type|utf₈|voxels|wait|xlsx|¬|±|¯|⌵|√|ₑ|∿|⌊|⌈|⁅|⧻|△|⇡|⊢|⊣|⇌|♭|⍉|⍆|⍏|⍖|⊚|◴|⊛|⧆|⋕|⋕|⨪|¤|⋯|□)[₀₁₂₃₄₅₆₇₈₉⌟⌞]*"
 
 #dyads
 color brightblue "(&apngs|&ffi|&fwa|&gifs|&memcpy|&rb|&rs|&ru|&seek|&tcpsrt|&tcpswt|&udpsml|&w|apng|bytes|gen|get|gif|has|img|layout|map|regex|remove|send|=|≠|<|≤|>|≥|\+|-|×|÷|◿|ⁿ|↧|↥|∠|ℂ|≍|⊟|⊂|⊏|⊡|↯|↙|↘|↻|⤸|▽|⌕|⦷|∊|⨂|⊥|⍤)[₀₁₂₃₄₅₆₇₈₉⌟⌞]*"
