@@ -31,13 +31,12 @@ color purple "[a-z|A-Z]+‼"
 color purple "[a-z|A-Z]+!!"
 
 #triadic and above macros
-color brightcyan "[a-zA-Z]+‼{2,}!?"
-color brightcyan "[a-zA-Z]+‼!"
-color brightcyan "[a-zA-Z]+!{3,}"
+color cyan "[a-zA-Z]+‼{2,}!?"
+color cyan "[a-zA-Z]+‼!"
+color cyan "[a-zA-Z]+!{3,}"
 
 #strings
-color cyan ""([^"]|\\")*""
-color brightcyan "\$.*"
+color brightcyan "\$?"([^"]|\\")*""
 
 #comments
 color grey "#.*"
